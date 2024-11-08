@@ -109,7 +109,7 @@ class _WeatherScreenState extends State<WeatherScreen> {
                     value: "34",
                   ),
                   HourlyForecastItem(
-                    icon: Icons.cloud,
+                    icon: Icons.cloud,   
                     time: "3h23",
                     value: "34",
                   ),
